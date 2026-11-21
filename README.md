@@ -1,4 +1,4 @@
-# Pi Themes
+# Pi Theme
 
 Four Catppuccin flavors for [Pi](https://pi.dev), bundled as a theme-only package.
 
@@ -14,7 +14,7 @@ Four Catppuccin flavors for [Pi](https://pi.dev), bundled as a theme-only packag
 Once this repository is pushed, install the package from GitHub:
 
 ```sh
-pi install git:github.com/pi-contrib/pi-themes
+pi install git:github.com/pi-contrib/pi-theme
 ```
 
 To pin an installation, append a release tag or commit hash to the source.
