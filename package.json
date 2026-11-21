@@ -3,13 +3,20 @@
   "version": "0.1.0",
   "description": "Catppuccin themes for Pi",
   "license": "MIT",
-  "keywords": ["pi-package", "catppuccin"],
-  "files": ["themes/"],
+  "keywords": [
+    "pi-package",
+    "catppuccin"
+  ],
+  "files": [
+    "themes/"
+  ],
   "repository": "https://github.com/pi-contrib/pi-theme.git",
   "publishConfig": {
     "registry": "https://npm.pkg.github.com"
   },
   "pi": {
-    "themes": ["./themes"]
+    "themes": [
+      "./themes"
+    ]
   }
 }
