@@ -1,0 +1,11 @@
+{
+  "name": "@pi-contrib/pi-themes",
+  "version": "0.1.0",
+  "description": "Catppuccin themes for Pi",
+  "license": "MIT",
+  "keywords": ["pi-package", "catppuccin"],
+  "files": ["themes/"],
+  "pi": {
+    "themes": ["./themes"]
+  }
+}
